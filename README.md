@@ -1,0 +1,4 @@
+# invisible
+library:
+-opencv
+-numpy
